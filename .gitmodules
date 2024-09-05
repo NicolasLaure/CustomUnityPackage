@@ -1,3 +1,3 @@
 [submodule "Assets"]
 	path = Assets
-	url = ./Assets
+	url = https://github.com/NicolasLaure/FSM_Custom_Package
